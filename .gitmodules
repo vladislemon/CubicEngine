@@ -1,0 +1,14 @@
+[submodule "glm"]
+	path = glm
+	url = https://github.com/g-truc/glm.git
+[submodule "Vulkan-Headers"]
+	path = Vulkan-Headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers.git
+	branch = sdk-1.2.189
+[submodule "Vulkan-Loader"]
+	path = Vulkan-Loader
+	url = https://github.com/KhronosGroup/Vulkan-Loader.git
+	branch = sdk-1.2.189
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw.git
